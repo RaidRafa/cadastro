@@ -1,0 +1,15 @@
+Nome: Rafael
+CPF: 28
+RG: 555089
+Endereço: Rua maresias
+Nascimento: 28/09/2004
+Instituição 1: Mauricio
+Instituição 2: UNG
+Instituição 3: 
+CEP: 08580-300
+PIS: 
+Cargo: Auxiliar de produção
+Horário: 06:00 às 16:00
+Experiência 1: 
+Experiência 2: 
+Experiência 3: 
